@@ -1,7 +1,7 @@
 # kbk_prezentacja
 
 Kod był uruchamiany na najnowszym debianie(https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-9.3.0-amd64-netinst.iso),
-do obsługi maszyn wirtualnych używałem virtualboxa. Do postawienia servera w przykładach 3 i 4 użyłem socata:
+do obsługi maszyn wirtualnych używałem virtualboxa. Do postawienia servera w przykładach 3 i 4:
 
 ```
 socat TCP-LISTEN:11223,fork,reuseaddr EXEC:/home/user/vuln/stack3/stack3.out
