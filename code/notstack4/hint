@@ -1,0 +1,4 @@
+to nie wymaga exploitowania malloca, w wersji trudniejszej przyda sie jakasbiblioteka do komunikacji z procesem albo zdalnym serverem(http://docs.pwntools.com/en/stable/intro.html)
+
+https://www.youtube.com/watch?v=kUk5pw4w0h4
+https://libc.blukat.me/ <-- do wersji trudniejszej(chociaz chyba mozna bez tego)
