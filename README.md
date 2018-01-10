@@ -12,8 +12,8 @@ Działające exploity są w working_exploits/, jak ktoś nie chce sobie spoilero
 
 ## stack3
 To da się zrobić prościej, ale na potrzeby przykładu usunąłem ze źródeł(nie z binarki) część kodu której
-nie używałem. Binarka pochodzi z https://github.com/ctfs/write-ups-2013/tree/master/pico-ctf-2013/rop-4.
-Do znajdowania gadgetów użyłem https://github.com/JonathanSalwan/ROPgadget
+nie używałem. Binarka pochodzi z https://github.com/ctfs/write-ups-2013/tree/master/pico-ctf-2013/rop-4,
+nie należy nic rekompilować. Do znajdowania gadgetów użyłem https://github.com/JonathanSalwan/ROPgadget
 
 ## notstack4
 Część na która nie starczyło czasu, dodałem trudniejszą wersję jak ktoś chce spróbować swoich sił. Warto 
